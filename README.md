@@ -7,5 +7,5 @@ Repository contains:
 -	Tableau file containing all components of the project,
 -	pdf snapshot of the dashboard.
 
-Interactive dashboard, all created visualizations and storyline are also available on my Tableau Public profile https://public.tableau.com/app/profile/lukasz7848/viz/Tableau_Course_Section6/Dashboard?publish=yes.
+Interactive dashboard, all created visualizations and storyline are also available on my Tableau Public profile https://public.tableau.com/app/profile/lukasz7848/viz/Tableau_Course_Section_6_Dashboard_Story/Dashboard.
 
